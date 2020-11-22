@@ -57,9 +57,7 @@ Run the application
 
 ### Accessing on localhost
 Naviagte to your prefered browser and verify the deployment
-```
-0.0.0.0:5000
-```
+> [0.0.0.0:5000](http://0.0.0.0:5000/)
 
 ![Image]()
 
@@ -76,4 +74,4 @@ or reasons to make its functioning clear or easy to understand.
 ![Image](task3/task3.png)
 
 # Tech Stack
-![Image]() | ![Image]()
+![Image](images/flask.png) | ![Image](images/opencv.png)
