@@ -22,7 +22,7 @@ $ pip install scikit-learn
 ```
 
 ### ChatBot
-![Image]()
+![Image](task1/task1.gif)
 
 
 # Task2
@@ -73,7 +73,7 @@ who depends on decisions, recommendations, or actions produced by the artificial
 XAI will create a set of techniques for machine learning that allows human users to understand. An explainable Artificial Intelligence is one that produces details
 or reasons to make its functioning clear or easy to understand.
 
-![Image]()
+![Image](task3/task3.png)
 
 # Tech Stack
 ![Image]() | ![Image]()
