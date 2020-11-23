@@ -60,7 +60,7 @@ Run the application
 Naviagte to your prefered browser and verify the deployment
 > [0.0.0.0:5000](http://0.0.0.0:5000/)
 
-![Image]()
+![Image](task2/task2.gif)
 
 # Task3
 
