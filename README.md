@@ -33,6 +33,7 @@ $ pip install scikit-learn
 Live cam face detection application detects the face in live video streaming using opencv. It is deployed using python micro framework flask
 
 ### Reqirements
+#### You can download haarcascades_frontalface_default.xml from [github.com](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 Install `virtualenv` 
 ```
 $ pip install virtualenv
